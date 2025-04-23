@@ -19,3 +19,8 @@ git checkout -b practice/new-git
 
 
 git checkout master --to go at master again
+
+$ git add . && git commit -m "added new git" 
+
+if you have new branch 
+git push --set-upstream orinig new/git
