@@ -24,3 +24,8 @@ $ git add . && git commit -m "added new git"
 
 if you have new branch 
 git push --set-upstream orinig new/git
+
+
+
+
+git merge new/git -- will merge to the branch that you are in
